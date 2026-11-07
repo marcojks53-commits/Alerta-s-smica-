@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Alerta Sísmica",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Alerta Sísmica",
+  "start_url": "/",
+  "theme_color": "#1b1a1f",
+  "id": "com.marcojks53.alertasismica",
+  "description": "Aplicación para monitorear las alertas sísmicas"
+}
